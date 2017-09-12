@@ -15,7 +15,10 @@ On the weekends and weeknights I like to watch netflix and hang out with friends
 My favourite joke is "how many emo kids does it chnage a lightbulb? None because they sit in the dark and cry" 
 With my experisnce in BTT10 i hope to learn how to do basic coding. A software I've used in the past is Khan Academy.
 
-
+<span style="color:red">some **This is Red Bold.** text</span>
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-<span style="color:red"> *some emphasized markdown text*</span>
+
 <font color="red">This is some text!</font>
+<span style="color:red">some **This is Red Bold.** text</span>
+<font color="red">Status: **Not yet implemented**</font>
+<span style=“color:green;”> text goes here</span>
