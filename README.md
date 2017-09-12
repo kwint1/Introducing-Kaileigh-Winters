@@ -18,3 +18,4 @@ With my experisnce in BTT10 i hope to learn how to do basic coding. A software I
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 <span style="color:red"> *some emphasized markdown text*</span>
+<font color="red">This is some text!</font>
