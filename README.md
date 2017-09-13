@@ -18,7 +18,7 @@ I live with my mom, dad, 2 big brothers, my dog and my cat. I also have an older
 My favourite song changes all the time, and I listen to all kinds of music but mostly rap and pop. 
 My favourite movie is 'IT', I love horror movies. But my favourite actor is Dylan O'brien. 
 My favourite food is pizza because I'm a super picky eater but I've just always loved pizza more than any other food. 
-My favourite animal is ![dogs](https://www.petful.com/wp-content/uploads/2016/06/french-bulldog.jpg)I've always loved them more than anything. 
+![My favourite animal is dogs](https://www.petful.com/wp-content/uploads/2016/06/french-bulldog.jpg)I've always loved them more than anything. 
 My greaest strength is that I always get stuff done on time and my greatest weakness is that I'm addicted to my phone. 
 I speak english and  French and have been in french immersion all my life. 
 On the weekends and weeknights I like to watch netflix and hang out with friends.
