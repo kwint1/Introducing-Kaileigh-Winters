@@ -14,8 +14,3 @@ I speak english and  French and have been in french immersion all my life.
 On the weekends and weeknights I like to watch netflix and hang out with friends.
 My favourite joke is "how many emo kids does it change a lightbulb? None because they sit in the dark and cry" 
 With my experience in BTT10 I hope to learn how to do basic coding. A software I've used in the past is Khan Academy.
-
-<span style="color:red">some **This is Red Bold.** text</span>
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-
